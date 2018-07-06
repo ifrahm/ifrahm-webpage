@@ -1,0 +1,9 @@
+.logos{
+    border-radius: 30%;
+    position: fixed;
+    z-index: +1;
+    top:6.6%;
+    left: 32%;
+    width: 200px;
+    height: 1000px;
+}
